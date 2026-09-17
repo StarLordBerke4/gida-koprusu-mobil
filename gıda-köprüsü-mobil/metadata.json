@@ -1,6 +1,0 @@
-{
-  "name": "Gıda Köprüsü",
-  "description": "SKA 2: Açlığa Son projesi için sosyal etki odaklı mobil uygulama arayüzü (React Native).",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
